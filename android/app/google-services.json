@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38045501742",
+    "project_id": "educute-8e354",
+    "storage_bucket": "educute-8e354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38045501742:android:b32c90cb2d3d28300012bf",
+        "android_client_info": {
+          "package_name": "com.example.educute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA29FScTQu5txRQJ1VyPfYmS9KRifotr-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
